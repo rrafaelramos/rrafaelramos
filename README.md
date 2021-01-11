@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Rafael Ramos, sou Desenvolvedor Full Stack com experiência em HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, Yii2 Framework, React JS, C, C++. Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFNMG – Campus Januária, e estou me especializando em "Gestão de Tecnologia da Informação - Desenvolvimento de Sistemas". 
+Meu nome é Rafael Ramos, sou desenvolvedor Full Stack com experiência em HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, Yii2 Framework, React JS, C, C++. Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFNMG – Campus Januária, e estou me especializando em "Gestão de Tecnologia da Informação - Desenvolvimento de Sistemas". 
 
 Eu me considero entusiasta em tecnologia de ponta, com muita vontade de aprender e fazer coisas novas, atualmente estou focado nos estudos do Web Development e Mobile, em especial o JavaScript, ReactJS e React Native.
 
 Ao longo de minha graduação também adquiri conhecimento em Gerenciamento de Projetos, Ciência da Computação e Engenharia de Software.
 
 "O Sucesso é a soma de pequenos esforços repetidos dia após dia" - Robert Collier
+<br>
+<a href="https://www.linkedin.com/in/rrafaelramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/linkedin.jpg"></a>
+<a href="https://www.instagram.com/rrafael_ramos/" target="_blank"><img src="https://github.com/rrafaelramos/rrafaelramos/blob/main/instagram.jpg"></a>
