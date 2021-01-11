@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **rrafaelramos/rrafaelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meu nome é Rafael Ramos, sou Desenvolvedor Full Stack com experiência em HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, Yii2 Framework, React JS, C, C++. Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFNMG – Campus Januária, e estou me especializando em "Gestão de Tecnologia da Informação - Desenvolvimento de Sistemas". 
+
+Eu me considero entusiasta em tecnologia de ponta, com muita vontade de aprender e fazer coisas novas, atualmente estou focado nos estudos do Web Development e Mobile, em especial o JavaScript, ReactJS e React Native.
+
+Ao longo de minha graduação também adquiri conhecimento em Gerenciamento de Projetos, Ciência da Computação e Engenharia de Software.
+
+"O Sucesso é a soma de pequenos esforços repetidos dia após dia" - Robert Collier
